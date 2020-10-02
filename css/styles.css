@@ -24,7 +24,7 @@ h2{
 
 #title{
   background-color: #ff4c68;
-    color: white;
+    color: grey;
 }
 
 /* Navbar */
@@ -151,7 +151,7 @@ h2{
   margin: 3% 0;
 }
 .foot-anchor{
-  color: black;
+  color: brown;
   margin: 1%;
   line-height: 2;
 }
